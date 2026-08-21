@@ -2,6 +2,7 @@
 
 Repositório didático para apresentar, em uma única aplicação, três ideias que se conectam:
 
+
 1. uma API HTTP escrita em Python;
 2. integração contínua com GitHub Actions;
 3. execução reproduzível com Docker.
