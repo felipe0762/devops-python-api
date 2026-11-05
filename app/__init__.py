@@ -1,1 +1,1 @@
-python"""Aplicação didática para as aulas de Integração DevOps."""
+"""Aplicação didática para as aulas de Integração DevOps."""
